@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Daten_Art\\Own Games Engine\\ComputerGraphicsOpenGL\\ComputerGraphicOpenGL\\ComputerGraphicOpenGL\\ComputerGraphicOpenGL.csproj",
+      "projectUniqueName": "D:\\Daten_Art\\Own Games Engine\\ComputerGraphicsOpenGL\\ComputerGraphicOpenGL-FirstTest\\ComputerGraphicOpenGL\\ComputerGraphicOpenGL\\ComputerGraphicOpenGL.csproj",
       "projectName": "ComputerGraphicOpenGL",
-      "projectPath": "D:\\Daten_Art\\Own Games Engine\\ComputerGraphicsOpenGL\\ComputerGraphicOpenGL\\ComputerGraphicOpenGL\\ComputerGraphicOpenGL.csproj",
+      "projectPath": "D:\\Daten_Art\\Own Games Engine\\ComputerGraphicsOpenGL\\ComputerGraphicOpenGL-FirstTest\\ComputerGraphicOpenGL\\ComputerGraphicOpenGL\\ComputerGraphicOpenGL.csproj",
       "packagesPath": "C:\\Users\\NORRIMO\\.nuget\\packages\\",
-      "outputPath": "D:\\Daten_Art\\Own Games Engine\\ComputerGraphicsOpenGL\\ComputerGraphicOpenGL\\ComputerGraphicOpenGL\\obj\\",
+      "outputPath": "D:\\Daten_Art\\Own Games Engine\\ComputerGraphicsOpenGL\\ComputerGraphicOpenGL-FirstTest\\ComputerGraphicOpenGL\\ComputerGraphicOpenGL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NORRIMO\\AppData\\Roaming\\NuGet\\NuGet.Config",
