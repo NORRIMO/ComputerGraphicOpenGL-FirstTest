@@ -25,7 +25,7 @@ namespace ComputerGraphicOpenGL
             nativeWindowSettings.NumberOfSamples = 0; // FSAA
             nativeWindowSettings.Title = "ComputerGraphicOpenGL-FirstTest";
             nativeWindowSettings.WindowBorder = OpenTK.Windowing.Common.WindowBorder.Fixed;
-            nativeWindowSettings.Size = new Vector2i(500, 500);
+            nativeWindowSettings.Size = new Vector2i(600, 600);
 
             ApplicationWindow window = new ApplicationWindow(gameWindowSettings, nativeWindowSettings);
             window.CenterWindow();
