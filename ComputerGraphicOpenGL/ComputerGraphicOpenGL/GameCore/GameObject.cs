@@ -83,22 +83,22 @@ namespace ComputerGraphicOpenGL.GameCore
 
         public void Update(KeyboardState input_K, MouseState input_M)
         {
-            if (input_K[Keys.W] || input_M.Y > 590)
+            if (input_K[Keys.S] || input_M.Y > 590)
             {
                 Position = new Vector3(Position.X, Position.Y + 2, Position.Z);     
             } 
             
-            if (input_K[Keys.S] || input_M.Y < 10)
+            if (input_K[Keys.W] || input_M.Y < 10)
             {
                 Position = new Vector3(Position.X, Position.Y - 2, Position.Z);
             } 
 
-            if (input_K[Keys.A] || input_M.X > 590)
+            if (input_K[Keys.D] || input_M.X > 590)
             {
                 Position = new Vector3(Position.X - 2, Position.Y , Position.Z);
             } 
             
-            if (input_K[Keys.D] || input_M.X < 10)
+            if (input_K[Keys.A] || input_M.X < 10)
             {
                 Position = new Vector3(Position.X + 2, Position.Y, Position.Z);
             }
